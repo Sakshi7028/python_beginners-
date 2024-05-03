@@ -1,2 +1,2 @@
-# python_beginners-
-python for beginners 
+# python_beginners
+this file contains python projects or mini project from beginning to advance level.
